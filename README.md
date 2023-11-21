@@ -19,8 +19,8 @@
 #使用技術
 
 
-  +PHP
-  +Laravel
-  +Docker
-  +PostgreSQL
-  +Sass
+・PHP
+・Laravel
+・Docker
+・PostgreSQL
+・Sass
