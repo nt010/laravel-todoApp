@@ -20,7 +20,11 @@
 
 
 ・PHP
+
 ・Laravel
+
 ・Docker
+
 ・PostgreSQL
+
 ・Sass
