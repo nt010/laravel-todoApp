@@ -16,7 +16,9 @@
 まだまだLaravelについて理解が足りていないため、レイアウトの変更や機能の変更や追加をする予定です。
 
 
-#使用技術
+
+
+# 使用技術
 
 
 PHP(Laravel)、Docker、PostgreSQL、Sass
