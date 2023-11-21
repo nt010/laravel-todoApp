@@ -1,4 +1,4 @@
-#Laravel Todo管理サイト
+# Laravel Todo管理サイト
 
 
 今後やりたいことをTodoとして管理するシンプルなサイトです。
@@ -19,12 +19,4 @@
 #使用技術
 
 
-・PHP
-
-・Laravel
-
-・Docker
-
-・PostgreSQL
-
-・Sass
+PHP(Laravel)、Docker、PostgreSQL、Sass
